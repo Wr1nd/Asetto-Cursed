@@ -1,0 +1,165 @@
+newmtl gen_Pwerplnt_cor
+Kd 1 1 1
+map_Kd Pwerplnt_core_bmp.png
+newmtl gen_Pwrplnt_pit_19
+Kd 1 1 1
+map_Kd Pwrplnt_pit_d_bmp.png
+newmtl gen_Pwrplnt_brace
+Kd 1 1 1
+map_Kd Pwrplnt_braces_bmp.png
+newmtl gen_Nelsons_
+Kd 1 1 1
+map_Kd Nelsons_A_bmp.png
+newmtl gen_Metal_roof_re
+Kd 1 1 1
+map_Kd Metal_roof_red_bmp.png
+newmtl gen_Highrez_pip
+Kd 1 1 1
+map_Kd Highrez_pipe_bmp.png
+newmtl gen_Pwrplnt_floo
+Kd 1 1 1
+map_Kd Pwrplnt_floor_bmp.png
+newmtl gen_OakL_m
+Kd 1 1 1
+map_Kd OakL_bmp.png
+newmtl gen_Nelsons_roo
+Kd 1 1 1
+map_Kd Nelsons_roof_bmp.png
+newmtl gen_Brown_siding_dirty_
+Kd 1 1 1
+map_Kd Brown_siding_dirty_A_bmp.png
+newmtl gen1_Pwrplnt_grat
+Kd 1 1 1
+map_Kd Pwrplnt_grate_bmp.png
+newmtl gen1_piston_gry_step_small1
+Kd 1 1 1
+map_Kd gry_step_smalll_bmp.png
+newmtl gen1_Pwrplnt_grat1
+Kd 1 1 1
+map_Kd Pwrplnt_grate_bmp.png
+newmtl gen_Treetrunk
+Kd 1 1 1
+map_Kd TreetrunkA_bmp.png
+newmtl gen_Sewer_wal
+Kd 1 1 1
+map_Kd Sewer_wall_bmp.png
+newmtl gen_blueMetalBarrier
+Kd 1 1 1
+map_Kd blueMetalBarrierA_bmp.png
+newmtl gen_Pwrplnt_towers_3
+Kd 1 1 1
+map_Kd Pwrplnt_towers_c_bmp.png
+newmtl gen_grey_siding_drk_14
+Kd 1 1 1
+map_Kd grey_siding_drk_C_bmp.png
+newmtl gen_Pwrplnt_towers_
+Kd 1 1 1
+map_Kd Pwrplnt_towers_b_bmp.png
+newmtl gen_Pwrplnt_towers_2
+Kd 1 1 1
+map_Kd Pwrplnt_towers_b_bmp.png
+newmtl gen_TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB_bmp.png
+newmtl gen_gry_found_drk_wr1
+Kd 1 1 1
+map_Kd gry_found_drk_wrm_bmp.png
+newmtl gen_gry_step_small1
+Kd 1 1 1
+map_Kd gry_step_smalll_bmp.png
+newmtl gen_red_bar
+Kd 1 1 1
+map_Kd red_barn_bmp.png
+newmtl gen_start_lin
+Kd 1 1 1
+map_Kd start_line_bmp.png
+newmtl gen_tele_pol
+Kd 1 1 1
+map_Kd tele_pole_bmp.png
+newmtl gen_tele_wir1
+Kd 1 1 1
+map_Kd tele_wire_bmp.png
+newmtl gen_tire_re
+Kd 1 1 1
+map_Kd tire_red_bmp.png
+newmtl gen_tire_whit
+Kd 1 1 1
+map_Kd tire_white_bmp.png
+newmtl gen_watertowe
+Kd 1 1 1
+map_Kd watertower_bmp.png
+newmtl gen_grey_siding_drk_15
+Kd 1 1 1
+map_Kd grey_siding_drk_D_bmp.png
+newmtl gen_doo
+Kd 1 1 1
+map_Kd door_bmp.png
+newmtl gen_driveway_dir9
+Kd 1 1 1
+map_Kd driveway_dirt_BMP.png
+newmtl gen_fence_whit
+Kd 1 1 1
+map_Kd fence_white_bmp.png
+newmtl gen_fence_woo
+Kd 1 1 1
+map_Kd fence_wood_bmp.png
+newmtl gen_fiel
+Kd 1 1 1
+map_Kd field_bmp.png
+newmtl gen_finish_lin
+Kd 1 1 1
+map_Kd finish_line_bmp.png
+newmtl gen_grass7
+Kd 1 1 1
+map_Kd grassC_BMP.png
+newmtl gen_grey_siding_
+Kd 1 1 1
+map_Kd grey_siding_A_bmp.png
+newmtl gen_grey_siding_14
+Kd 1 1 1
+map_Kd grey_siding_C_bmp.png
+newmtl gen_grey_siding_drk_
+Kd 1 1 1
+map_Kd grey_siding_drk_A_bmp.png
+newmtl straight
+Kd 1 1 1
+map_Kd straight5_bmp.png
+newmtl start8
+Kd 1 1 1
+map_Kd start7_bmp.png
+newmtl redwhit
+Kd 1 1 1
+map_Kd redwhite_bmp.png
+newmtl nucgrat
+Kd 1 1 1
+map_Kd nucgrate_bmp.png
+newmtl grass7
+Kd 1 1 1
+map_Kd grassC_BMP.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassC_BMP.png
+newmtl fiel9
+Kd 1 1 1
+map_Kd field_bmp.png
+newmtl driveway_dir9
+Kd 1 1 1
+map_Kd driveway_dirt_BMP.png
+newmtl ditc9
+Kd 1 1 1
+map_Kd ditch_bmp.png
+newmtl Pwrplnt_grat
+Kd 1 1 1
+map_Kd Pwrplnt_grate_bmp.png
+newmtl gen_grey_siding_drk_13
+Kd 1 1 1
+map_Kd grey_siding_drk_B_bmp.png
+newmtl gen_gry_corr_meta1
+Kd 1 1 1
+map_Kd gry_corr_metal_bmp.png
+newmtl gen_gry_wood_rail_
+Kd 1 1 1
+map_Kd gry_wood_rail_bmp.png
+newmtl gen_Oak
+Kd 1 1 1
+map_Kd OakS_bmp.png

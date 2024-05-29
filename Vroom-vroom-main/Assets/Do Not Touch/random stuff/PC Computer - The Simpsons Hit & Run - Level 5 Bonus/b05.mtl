@@ -1,0 +1,318 @@
+newmtl glowwindow_m
+Kd 1 1 1
+map_Kd glowwindow_bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete_bmp.png
+newmtl concret
+Kd 1 1 1
+map_Kd concrete_bmp.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassB_bmp1.png
+newmtl com_stucco_21
+Kd 1 1 1
+map_Kd com_stucco_d_bmp.png
+newmtl com_stucco_20
+Kd 1 1 1
+map_Kd com_stucco_c_bmp.png
+newmtl com_stucco_19
+Kd 1 1 1
+map_Kd com_stucco_b_bmp.png
+newmtl com_stucco_
+Kd 1 1 1
+map_Kd com_stucco_a_bmp.png
+newmtl com_metal_14
+Kd 1 1 1
+map_Kd com_metal_d_bmp.png
+newmtl com_metal_13
+Kd 1 1 1
+map_Kd com_metal_c_bmp.png
+newmtl com_metal_
+Kd 1 1 1
+map_Kd com_metal_b_bmp.png
+newmtl com_deco_21
+Kd 1 1 1
+map_Kd com_deco_d_bmp.png
+newmtl com_deco_20
+Kd 1 1 1
+map_Kd com_deco_c_bmp.png
+newmtl com_deco_19
+Kd 1 1 1
+map_Kd com_deco_b_bmp.png
+newmtl com_deco_
+Kd 1 1 1
+map_Kd com_deco_a_bmp.png
+newmtl com_brick_21
+Kd 1 1 1
+map_Kd com_brick_d_bmp.png
+newmtl com_brick_
+Kd 1 1 1
+map_Kd com_brick_a_bmp.png
+newmtl cityscape_vent_m
+Kd 1 1 1
+map_Kd vent_bmp.png
+newmtl cityscape_twr_metal_c_m
+Kd 1 1 1
+map_Kd twr_metal_c_bmp.png
+newmtl cityscape_magglass_handle_m
+Kd 1 1 1
+map_Kd magglass_handle_bmp.png
+newmtl cityscape_concrete_m
+Kd 1 1 1
+map_Kd concrete_bmp1.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl canopy_yellow_m
+Kd 1 1 1
+map_Kd canopy_yellow_bmp.png
+newmtl grounds
+Kd 1 1 1
+map_Kd straight4_bmp.png
+newmtl grassB_m
+Kd 1 1 1
+map_Kd grassB_bmp.png
+newmtl asphalt_nor
+Kd 1 1 1
+map_Kd asphalt_norm_bmp.png
+newmtl WrS_Wood_D_m
+Kd 1 1 1
+map_Kd WrS_Wood_D_BMP.png
+newmtl WrS_Stucco_D_m
+Kd 1 1 1
+map_Kd WrS_Stucco_D_BMP.png
+newmtl WrS_Stucco_C_m
+Kd 1 1 1
+map_Kd WrS_Stucco_C_BMP.png
+newmtl WrS_Stucco_A_m
+Kd 1 1 1
+map_Kd WrS_Stucco_A_BMP.png
+newmtl WrS_OldBrick_C_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_C_BMP.png
+newmtl WrS_OldBrick_A_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_A_BMP.png
+newmtl TVantenna_m
+Kd 1 1 1
+map_Kd TVantenna_bmp.png
+newmtl PlasmaCenter_m
+Kd 1 1 1
+map_Kd PlasmaCenter_bmp.png
+newmtl ParkFenc
+Kd 1 1 1
+map_Kd ParkFence_bmp.png
+newmtl HospTri
+Kd 1 1 1
+map_Kd HospTrim_bmp.png
+newmtl Herman_trim_c_m
+Kd 1 1 1
+map_Kd Herman_trim_c_bmp.png
+newmtl Herman_trim_b_m
+Kd 1 1 1
+map_Kd Herman_trim_b_bmp.png
+newmtl Heltershelter_trims_a_m
+Kd 1 1 1
+map_Kd Heltershelter_trims_a_bmp.png
+newmtl blueMetalBarrier
+Kd 1 1 1
+map_Kd blueMetalBarrierA_bmp.png
+newmtl CH_roo
+Kd 1 1 1
+map_Kd CH_roof_bmp.png
+newmtl Bl_metal_wrhse_D_m
+Kd 1 1 1
+map_Kd Bl_metal_wrhse_D_bmp.png
+newmtl lampiron_m
+Kd 1 1 1
+map_Kd lampiron_bmp.png
+newmtl lampglobe_m
+Kd 1 1 1
+map_Kd lampglobe_bmp.png
+newmtl streetlampC_m
+Kd 1 1 1
+map_Kd streetlampC_bmp.png
+newmtl streetlampB_m
+Kd 1 1 1
+map_Kd streetlampB_bmp.png
+newmtl watertower_m
+Kd 1 1 1
+map_Kd watertower_bmp.png
+newmtl start_line_m
+Kd 1 1 1
+map_Kd start_line_bmp.png
+newmtl finish_line_m
+Kd 1 1 1
+map_Kd finish_line_bmp.png
+newmtl canopy_pin
+Kd 1 1 1
+map_Kd canopy_pink_bmp.png
+newmtl Constructsite_c_m
+Kd 1 1 1
+map_Kd Constructsite_c_bmp.png
+newmtl krusty_banner_m
+Kd 1 1 1
+map_Kd krusty_banner_bmp.png
+newmtl twr_metal_c_m
+Kd 1 1 1
+map_Kd twr_metal_c_bmp.png
+newmtl concrete_stad1
+Kd 1 1 1
+map_Kd concrete_stad1a_bmp.png
+newmtl BenchFla
+Kd 1 1 1
+map_Kd BenchFlat_bmp.png
+newmtl Constructsite_
+Kd 1 1 1
+map_Kd Constructsite_a_bmp.png
+newmtl twr_metal_b_m
+Kd 1 1 1
+map_Kd twr_metal_b_bmp.png
+newmtl twr_metal_a_m
+Kd 1 1 1
+map_Kd twr_metal_a_bmp.png
+newmtl sign_sale_m
+Kd 1 1 1
+map_Kd sign_sale_bmp.png
+newmtl sign_50off_m
+Kd 1 1 1
+map_Kd sign_50off_bmp.png
+newmtl monorail_trim_m
+Kd 1 1 1
+map_Kd monorail_trim_BMP.png
+newmtl metal_roof_grey_m
+Kd 1 1 1
+map_Kd metal_roof_grey_bmp.png
+newmtl krust_backdoor_m
+Kd 1 1 1
+map_Kd krust_backdoor_bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound_bmp.png
+newmtl OakL_alph
+Kd 1 1 1
+map_Kd OakLGrnRed_bmp.png
+newmtl Treetrunk1
+Kd 1 1 1
+map_Kd TreetrunkB_bmp.png
+newmtl street_sig
+Kd 1 1 1
+map_Kd minisign_bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc_bmp.png
+newmtl magglass_wall_m
+Kd 1 1 1
+map_Kd magglass_wall_bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm_bmp.png
+newmtl old_canopy_A_m
+Kd 1 1 1
+map_Kd old_canopy_A_bmp.png
+newmtl old_canopy_D_m
+Kd 1 1 1
+map_Kd old_canopy_D_bmp.png
+newmtl lampkrust_streetlampC_m
+Kd 1 1 1
+map_Kd streetlampC_bmp1.png
+newmtl lampkrust_char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl rd3_cobble_m
+Kd 1 1 1
+map_Kd rd3_cobble_BMP.png
+newmtl twr_horiz_
+Kd 1 1 1
+map_Kd twr_horiz_a_bmp.png
+newmtl twr_horiz_a_m
+Kd 1 1 1
+map_Kd twr_horiz_a_bmp.png
+newmtl twr_horiz_c_m
+Kd 1 1 1
+map_Kd twr_horiz_c_bmp.png
+newmtl twr_vert_
+Kd 1 1 1
+map_Kd twr_vert_a_bmp.png
+newmtl twr_vert_1
+Kd 1 1 1
+map_Kd twr_vert_c_bmp.png
+newmtl twr_vert_a_m
+Kd 0 0 1
+map_Kd twr_vert_a_bmp.png
+newmtl twr_vert_c_m
+Kd 1 1 1
+map_Kd twr_vert_c_bmp.png
+newmtl z1_concrete_m
+Kd 1 1 1
+map_Kd concrete_bmp2.png
+newmtl z1_sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk_bmp.png
+newmtl escalator_side_m
+Kd 1 1 1
+map_Kd escalator_side_bmp.png
+newmtl twr_old_a_m
+Kd 1 1 1
+map_Kd twr_old_a_bmp.png
+newmtl tire_red_m
+Kd 1 1 1
+map_Kd tire_red_bmp.png
+newmtl water_A_m
+Kd 1 1 1
+map_Kd water_bmp.png
+newmtl stripes
+Kd 1 1 1
+map_Kd redwhite_bmp.png
+newmtl starts
+Kd 1 1 1
+map_Kd start5_bmp.png
+newmtl sidewlk
+Kd 1 1 1
+map_Kd sidewlkA_bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk_bmp.png
+newmtl rd2_crosswal
+Kd 1 1 1
+map_Kd rd2_crosswalk_bmp.png
+newmtl park_steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc_bmp.png
+newmtl park_rd3_cobble_m
+Kd 1 1 1
+map_Kd rd3_cobble_BMP.png
+newmtl park_rd3_cbleGrassTrans_m
+Kd 1 1 1
+map_Kd rd3_cbleGrassTrans_bmp.png
+newmtl park_grassB_m
+Kd 1 1 1
+map_Kd grassB_bmp.png
+newmtl char_swatche12
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl asphalt_nor11
+Kd 1 1 1
+map_Kd asphalt_norm_bmp.png
+newmtl SMkwindo1
+Kd 1 1 1
+map_Kd SMkwindow_bmp.png
+newmtl SMk_Wal1
+Kd 1 1 1
+map_Kd SMk_Wall_bmp.png
+newmtl ParkWall1
+Kd 1 1 1
+map_Kd ParkWallA_bmp.png
+newmtl tire_white_m
+Kd 1 1 1
+map_Kd tire_white_bmp.png
+newmtl revrest_trim_m
+Kd 1 1 1
+map_Kd revrest_trim_bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk_bmp.png
+newmtl gry_found_light_cool_m
+Kd 1 1 1
+map_Kd gry_found_light_cool_bmp.png

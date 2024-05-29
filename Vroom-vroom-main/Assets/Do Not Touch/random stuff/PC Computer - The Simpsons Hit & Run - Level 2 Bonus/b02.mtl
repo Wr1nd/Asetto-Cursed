@@ -1,0 +1,261 @@
+newmtl boxe
+Kd 1 1 1
+map_Kd boxes_bmp.png
+newmtl WrS_Stucco_18
+Kd 1 1 1
+map_Kd WrS_Stucco_A_BMP.png
+newmtl Traincar_9
+Kd 1 1 1
+map_Kd Traincar_c_bmp.png
+newmtl Constructsite_22
+Kd 1 1 1
+map_Kd Constructsite_c_bmp.png
+newmtl Constructsite_20
+Kd 1 1 1
+map_Kd Constructsite_b_bmp.png
+newmtl Constructsite_19
+Kd 1 1 1
+map_Kd Constructsite_a_bmp.png
+newmtl Constructsite_21
+Kd 1 1 1
+map_Kd Constructsite_c_bmp.png
+newmtl BenchFla1
+Kd 1 1 1
+map_Kd BenchFlat_bmp.png
+newmtl old_redbrick_4
+Kd 1 1 1
+map_Kd old_redbrick_E_bmp.png
+newmtl old_redbrick_3
+Kd 1 1 1
+map_Kd old_redbrick_C_bmp.png
+newmtl old_parapits_4
+Kd 1 1 1
+map_Kd old_parapits_C_bmp.png
+newmtl WrS_Metal_5
+Kd 1 1 1
+map_Kd WrS_Metal_A_BMP.png
+newmtl Woo1
+Kd 1 1 1
+map_Kd Wood_bmp.png
+newmtl Railyard_
+Kd 1 1 1
+map_Kd Railyard_A_bmp.png
+newmtl Grease_factor
+Kd 1 1 1
+map_Kd Grease_factory_bmp.png
+newmtl WrS_OldBrick_
+Kd 1 1 1
+map_Kd WrS_OldBrick_A_BMP.png
+newmtl wood_whitepaint2
+Kd 1 1 1
+map_Kd wood_whitepaint1a_bmp.png
+newmtl old_parapits_
+Kd 1 1 1
+map_Kd old_parapits_C_bmp.png
+newmtl MetalBarrier
+Kd 1 1 1
+map_Kd MetalBarrierA_bmp.png
+newmtl LardVen
+Kd 1 1 1
+map_Kd LardVent_BMP.png
+newmtl ForLeaseSig
+Kd 1 1 1
+map_Kd ForLeaseSign_bmp.png
+newmtl Constructsite_18
+Kd 1 1 1
+map_Kd Constructsite_c_bmp.png
+newmtl Constructsite_17
+Kd 1 1 1
+map_Kd Constructsite_a_bmp.png
+newmtl old_redbrick_
+Kd 1 1 1
+map_Kd old_redbrick_A_bmp.png
+newmtl BenchFla
+Kd 1 1 1
+map_Kd BenchFlat_bmp.png
+newmtl WrS_Metal_
+Kd 1 1 1
+map_Kd WrS_Metal_A_BMP.png
+newmtl Woo
+Kd 1 1 1
+map_Kd Wood_bmp.png
+newmtl RoundHouseRoo
+Kd 1 1 1
+map_Kd RoundHouseRoof_bmp.png
+newmtl Constructsite_
+Kd 1 1 1
+map_Kd Constructsite_c_bmp.png
+newmtl wood_whitepaint1
+Kd 1 1 1
+map_Kd wood_whitepaint1a_bmp.png
+newmtl old_yellowbrick_
+Kd 1 1 1
+map_Kd old_yellowbrick_A_bmp.png
+newmtl old_parapits_3
+Kd 1 1 1
+map_Kd old_parapits_C_bmp.png
+newmtl garbage_iro
+Kd 1 1 1
+map_Kd garbage_iron_bmp.png
+newmtl dirt_stri
+Kd 1 1 1
+map_Kd dirt_strip_bmp.png
+newmtl char_swatche6
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl WrS_Stucco_
+Kd 1 1 1
+map_Kd WrS_Stucco_A_BMP.png
+newmtl WrS_Metal_6
+Kd 1 1 1
+map_Kd WrS_Metal_A_BMP.png
+newmtl ForLeaseSig1
+Kd 1 1 1
+map_Kd ForLeaseSign_bmp.png
+newmtl char_swatche
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl watertowe
+Kd 1 1 1
+map_Kd watertower_bmp.png
+newmtl start_lin
+Kd 1 1 1
+map_Kd start_line_bmp.png
+newmtl finish_lin
+Kd 1 1 1
+map_Kd finish_line_bmp.png
+newmtl rd_Dirt_tri
+Kd 1 1 1
+map_Kd rd_Dirt_trim_BMP.png
+newmtl rd_Dir
+Kd 1 1 1
+map_Kd rd_Dirt_BMP.png
+newmtl WrS_Stucco_14
+Kd 1 1 1
+map_Kd WrS_Stucco_C_BMP.png
+newmtl rd2_crosswal
+Kd 1 1 1
+map_Kd rd2_crosswalk_bmp.png
+newmtl heltershelter_bas
+Kd 1 1 1
+map_Kd heltershelter_base_bmp.png
+newmtl char_swatche5
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl WrS_Wood_9
+Kd 1 1 1
+map_Kd WrS_Wood_D_BMP.png
+newmtl WrS_Wood_8
+Kd 1 1 1
+map_Kd WrS_Wood_C_BMP.png
+newmtl WrS_Wood_7
+Kd 1 1 1
+map_Kd WrS_Wood_B_BMP.png
+newmtl WrS_Wood_
+Kd 1 1 1
+map_Kd WrS_Wood_A_BMP.png
+newmtl WrS_Stucco_17
+Kd 1 1 1
+map_Kd WrS_Stucco_C_BMP.png
+newmtl WrS_Stucco_16
+Kd 1 1 1
+map_Kd WrS_Stucco_A_BMP.png
+newmtl WrS_Stucco_15
+Kd 1 1 1
+map_Kd WrS_Stucco_D_BMP.png
+newmtl WrS_Stucco_13
+Kd 1 1 1
+map_Kd WrS_Stucco_B_BMP.png
+newmtl WrS_OldBrick_9
+Kd 1 1 1
+map_Kd WrS_OldBrick_B_BMP.png
+newmtl WrS_OldBrick_12
+Kd 1 1 1
+map_Kd WrS_OldBrick_A_BMP.png
+newmtl WrS_OldBrick_11
+Kd 1 1 1
+map_Kd WrS_OldBrick_D_BMP.png
+newmtl WrS_OldBrick_10
+Kd 1 1 1
+map_Kd WrS_OldBrick_C_BMP.png
+newmtl Plasma_trim_
+Kd 1 1 1
+map_Kd Plasma_trim_b_bmp.png
+newmtl Herman_trim_1
+Kd 1 1 1
+map_Kd Herman_trim_c_bmp.png
+newmtl Herman_trim_
+Kd 1 1 1
+map_Kd Herman_trim_b_bmp.png
+newmtl Herman
+Kd 1 1 1
+map_Kd Hermans_bmp.png
+newmtl Heltershelter_trims_
+Kd 1 1 1
+map_Kd Heltershelter_trims_a_bmp.png
+newmtl LardVen1
+Kd 1 1 1
+map_Kd LardVent_BMP.png
+newmtl MetalBarrier1
+Kd 1 1 1
+map_Kd MetalBarrierA_bmp.png
+newmtl tire_whit
+Kd 1 1 1
+map_Kd tire_white_bmp.png
+newmtl traintrack
+Kd 1 1 1
+map_Kd traintracks_bmp.png
+newmtl Bridge_
+Kd 1 1 1
+map_Kd Bridge_a_bmp.png
+newmtl Flags_colored_1
+Kd 1 1 1
+map_Kd Flags_RWB_bmp.png
+newmtl Trainbas
+Kd 1 1 1
+map_Kd Trainbase_bmp.png
+newmtl Trainbas1
+Kd 1 1 1
+map_Kd Trainbase_bmp.png
+newmtl Traincar_
+Kd 1 1 1
+map_Kd Traincar_a_bmp.png
+newmtl Traincar_7
+Kd 1 1 1
+map_Kd Traincar_c_bmp.png
+newmtl chainlink_
+Kd 1 1 1
+map_Kd chainlink_bmp.png
+newmtl l2_railcrossin
+Kd 1 1 1
+map_Kd l2_railcrossing_bmp.png
+newmtl traintrack1
+Kd 1 1 1
+map_Kd traintracks_bmp.png
+newmtl straight
+Kd 1 1 1
+map_Kd straight4_bmp.png
+newmtl start
+Kd 1 1 1
+map_Kd start5_bmp.png
+newmtl sidewlk_ol
+Kd 1 1 1
+map_Kd sidewlk_old_bmp.png
+newmtl sidewl
+Kd 1 1 1
+map_Kd sidewlk_bmp.png
+newmtl redwhit
+Kd 1 1 1
+map_Kd redwhite_bmp.png
+newmtl rd3_cobbl
+Kd 1 1 1
+map_Kd rd3_cobble_BMP.png
+newmtl rd2_nor
+Kd 1 1 1
+map_Kd rd2_norm_bmp.png
+newmtl tire_re
+Kd 1 1 1
+map_Kd tire_red_bmp.png
+newmtl blueMetalBarrier
+Kd 1 1 1
+map_Kd blueMetalBarrierA_bmp.png

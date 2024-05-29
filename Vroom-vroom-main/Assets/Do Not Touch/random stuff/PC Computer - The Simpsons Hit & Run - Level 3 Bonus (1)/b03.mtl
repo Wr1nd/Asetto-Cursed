@@ -1,0 +1,150 @@
+newmtl base_concret
+Kd 1 1 1
+map_Kd concrete_bmp.png
+newmtl dockWoo1
+Kd 1 1 1
+map_Kd dockWood_bmp.png
+newmtl base_gry_found_drk_coo
+Kd 1 1 1
+map_Kd gry_found_drk_cool_bmp.png
+newmtl MetalBarrier1
+Kd 1 1 1
+map_Kd MetalBarrierA_bmp.png
+newmtl base_straigh
+Kd 1 1 1
+map_Kd straight_bmp.png
+newmtl Treetrunk_redwoo9
+Kd 1 1 1
+map_Kd Treetrunk_redwood_BMP.png
+newmtl Palmtrees_trun1
+Kd 1 1 1
+map_Kd Palmtrees_trunk_bmp.png
+newmtl tire_whit
+Kd 1 1 1
+map_Kd tire_white_bmp.png
+newmtl Palmtrees_1
+Kd 1 1 1
+map_Kd Palmtrees_bmp.png
+newmtl start_lin
+Kd 1 1 1
+map_Kd start_line_bmp.png
+newmtl finish_lin
+Kd 1 1 1
+map_Kd finish_line_bmp.png
+newmtl Treetrunk_redwoo
+Kd 1 1 1
+map_Kd Treetrunk_redwood_BMP.png
+newmtl fern_alph
+Kd 1 1 1
+map_Kd fern_bmp.png
+newmtl tire_re
+Kd 1 1 1
+map_Kd tire_red_bmp.png
+newmtl chain_
+Kd 1 1 1
+map_Kd chain_bmp.png
+newmtl Highrez_pip
+Kd 1 1 1
+map_Kd Highrez_pipe_bmp.png
+newmtl colapip
+Kd 1 1 1
+map_Kd colapipe_bmp.png
+newmtl Flags_colored_
+Kd 1 1 1
+map_Kd Flags_RWB_bmp.png
+newmtl Bridge_
+Kd 1 1 1
+map_Kd Bridge_a_bmp.png
+newmtl rd2_crosswal
+Kd 1 1 1
+map_Kd rd2_crosswalk_bmp.png
+newmtl gry_found_drk_coo
+Kd 1 1 1
+map_Kd gry_found_drk_cool_bmp.png
+newmtl water
+Kd 1 1 1
+map_Kd waterA_bmp.png
+newmtl rock_tan_to
+Kd 1 1 1
+map_Kd rock_tan_top_bmp.png
+newmtl grass1
+Kd 1 1 1
+map_Kd grassA_bmp.png
+newmtl steps_con
+Kd 1 1 1
+map_Kd steps_conc_bmp.png
+newmtl gry_found_light_wr
+Kd 1 1 1
+map_Kd gry_found_light_wrm_bmp.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassA_bmp.png
+newmtl ant_yellow_6
+Kd 1 1 1
+map_Kd ant_yellow_C_bmp.png
+newmtl ant_yellow_5
+Kd 1 1 1
+map_Kd ant_yellow_B_bmp.png
+newmtl ant_yellow_
+Kd 1 1 1
+map_Kd ant_yellow_A_bmp.png
+newmtl rock_mos
+Kd 1 1 1
+map_Kd rock_moss_BMP.png
+newmtl ant_green_5
+Kd 1 1 1
+map_Kd ant_green_B_bmp.png
+newmtl ant_green_
+Kd 1 1 1
+map_Kd ant_green_A_bmp.png
+newmtl Metal_roof_re1
+Kd 1 1 1
+map_Kd Metal_roof_red_bmp.png
+newmtl Metal_roof_blu1
+Kd 1 1 1
+map_Kd Metal_roof_blue_bmp.png
+newmtl ant_porc
+Kd 1 1 1
+map_Kd ant_porch_bmp.png
+newmtl ant_green_6
+Kd 1 1 1
+map_Kd ant_green_C_bmp.png
+newmtl ant_blue_6
+Kd 1 1 1
+map_Kd ant_blue_C_bmp.png
+newmtl ant_blue_5
+Kd 1 1 1
+map_Kd ant_blue_B_bmp.png
+newmtl ant_blue_
+Kd 1 1 1
+map_Kd ant_blue_A_bmp.png
+newmtl BenchFla
+Kd 1 1 1
+map_Kd BenchFlat_bmp.png
+newmtl Dock_railin
+Kd 1 1 1
+map_Kd Dock_railing_bmp.png
+newmtl boa
+Kd 1 1 1
+map_Kd boat_bmp.png
+newmtl streetlamp
+Kd 1 1 1
+map_Kd streetlampC_bmp.png
+newmtl straigh
+Kd 1 1 1
+map_Kd straight_bmp.png
+newmtl star1
+Kd 1 1 1
+map_Kd start_bmp.png
+newmtl sidewl
+Kd 1 1 1
+map_Kd sidewlk_bmp.png
+newmtl redwhit
+Kd 1 1 1
+map_Kd redwhite_bmp.png
+newmtl grassdirt_tran
+Kd 1 1 1
+map_Kd grassdirt_trans_BMP.png
+newmtl watertowe
+Kd 1 1 1
+map_Kd watertower_bmp.png

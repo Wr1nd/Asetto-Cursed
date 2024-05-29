@@ -1,0 +1,114 @@
+newmtl humancola_billboard_m
+Kd 1 1 1
+map_Kd humancola_billboard_bmp.png
+newmtl Bigleaf1
+Kd 1 1 1
+map_Kd BigleafR_bmp.png
+newmtl Bigleaf_1
+Kd 1 1 1
+map_Kd Bigleaf_bmp.png
+newmtl Bridge_
+Kd 1 1 1
+map_Kd Bridge_a_bmp.png
+newmtl Burns_interior_
+Kd 1 1 1
+map_Kd Burns_interior_e_bmp.png
+newmtl Dam_
+Kd 1 1 1
+map_Kd Dam_a_bmp.png
+newmtl Dam_1
+Kd 1 1 1
+map_Kd Dam_b_bmp.png
+newmtl Dam_2
+Kd 1 1 1
+map_Kd Dam_a_bmp.png
+newmtl Flags_colored_
+Kd 1 1 1
+map_Kd Flags_RWB_bmp.png
+newmtl MetalBarrier
+Kd 1 1 1
+map_Kd MetalBarrierA_bmp.png
+newmtl Treetrunk
+Kd 1 1 1
+map_Kd TreetrunkB_bmp.png
+newmtl Treetrunk_redwoo
+Kd 1 1 1
+map_Kd Treetrunk_redwood_BMP.png
+newmtl boardwalk
+Kd 1 1 1
+map_Kd boardwalkA_bmp.png
+newmtl char_swatche
+Kd 1 1 1
+map_Kd char_swatches_bmp.png
+newmtl dam
+Kd 1 1 1
+map_Kd damn_bmp.png
+newmtl darkergrass
+Kd 1 1 1
+map_Kd grass_bmp.png
+newmtl finish_lin
+Kd 1 1 1
+map_Kd finish_line_bmp.png
+newmtl rock_mos
+Kd 1 1 1
+map_Kd rock_moss_BMP.png
+newmtl rock_tan_to
+Kd 1 1 1
+map_Kd rock_tan_top_bmp.png
+newmtl sprfld_sig
+Kd 1 1 1
+map_Kd sprfld_sign_bmp.png
+newmtl start_lin
+Kd 1 1 1
+map_Kd start_line_bmp.png
+newmtl tire_re
+Kd 1 1 1
+map_Kd tire_red_bmp.png
+newmtl tire_whit
+Kd 1 1 1
+map_Kd tire_white_bmp.png
+newmtl watertowe
+Kd 1 1 1
+map_Kd watertower_bmp.png
+newmtl EverSyelgr
+Kd 1 1 1
+map_Kd EverSyelgrn_BMP.png
+newmtl ocean
+Kd 1 1 1
+map_Kd ocean1_bmp.png
+newmtl straigh2
+Kd 1 1 1
+map_Kd straight_bmp.png
+newmtl star2
+Kd 1 1 1
+map_Kd start_bmp.png
+newmtl sidewl1
+Kd 1 1 1
+map_Kd sidewlk_bmp.png
+newmtl rock_tan_to2
+Kd 1 1 1
+map_Kd rock_tan_top_bmp.png
+newmtl redwhit2
+Kd 1 1 1
+map_Kd redwhite_bmp.png
+newmtl rd2_nor8
+Kd 1 1 1
+map_Kd rd2_norm_bmp.png
+newmtl grass1
+Kd 1 1 1
+map_Kd grassA_bmp1.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassA_bmp.png
+newmtl asphalt_nor1
+Kd 1 1 1
+map_Kd asphalt_norm_bmp.png
+newmtl asphalt_nor
+Kd 1 1 1
+map_Kd asphalt_norm_bmp.png
+newmtl ocean2
+Kd 1 1 1
+map_Kd ocean1_bmp.png
+newmtl rock_tan_to1
+Kd 1 1 1
+map_Kd rock_tan_top_bmp.png
